@@ -11,7 +11,6 @@ Find as many "Perfect Months" as you can. Make a program that outputs years with
 #a perfect month will only occur in years that aren't leap years
 #a perfect month can only be February 
 #this program searches from the year 1000 to the year 3000 for the years with a perfect month
-#Link to challenge in comments
 
 
 require 'date'
