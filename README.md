@@ -2,4 +2,6 @@ This project contains some miscellaneous challenges that I have done over the ye
 
 Some of the challenges are console graphics, so they only make sense to do with a console/terminal.
 
+Majority of the challenges are from sololearn.
+
 <h1>Enjoy!</h1>
